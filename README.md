@@ -2,4 +2,4 @@
 
 ** Easy
 
-[easy/valid_parenthesis.py](easy/valid_parenthesis.py)
+[Valid Parenthesis](easy/valid_parenthesis.py)
